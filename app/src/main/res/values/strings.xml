@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="seniors">Seniors</string>
+    <string name="juniors">Juniors</string>
+    <string name="sophomores">Sophomores</string>
+    <string name="freshmen">Freshmen</string>
+</resources>
